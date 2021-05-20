@@ -15,5 +15,12 @@
 ![3D Top](https://user-images.githubusercontent.com/40338644/118956941-aed24b00-b97d-11eb-9d78-945a500345cc.JPG)
 ![3D Bottom](https://user-images.githubusercontent.com/40338644/118956952-b09c0e80-b97d-11eb-88b7-1a9cd4b3e592.JPG)
 
+# Board Description
+* It is a 2 layer board.
+* Total PCB thickness is 1.6
+* Here 2oz copper is needed because track width is small so that's why I need 2oz copper.
+![2 layer pcb stack-up](https://user-images.githubusercontent.com/40338644/119019217-96345600-b9ba-11eb-8523-671bedafb4c1.png)
+
+
 # Bill of Materials
 
