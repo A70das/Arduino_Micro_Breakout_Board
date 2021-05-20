@@ -1,6 +1,9 @@
 # Objective
+* It is designed for used a smd component.
+* 
 
 # Bill of Materials
+
 
 # Schematic Diagram
 ![Schematic Diagram](https://user-images.githubusercontent.com/40338644/118956839-982bf400-b97d-11eb-8d63-1d05a37e409d.JPG)
